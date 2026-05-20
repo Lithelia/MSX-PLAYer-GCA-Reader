@@ -4,7 +4,7 @@ MSX-PLAYer Game Cartridge Adapter （以下、MGCAと略します）用の、カ
 とりあえず、なんとか動くところまで作ってみました。
 
 .NET 10.0 (x86)のランタイムが必要です。
-下記のMicrosoft公式サイトのURLから、「.NET デスクトップ ランタイム 10.0.7」の「x86」版をダウンロードして、インストールしてください。
+下記のMicrosoft公式サイトのURLから、「.NET デスクトップ ランタイム 10.0.8」の「x86」版をダウンロードして、インストールしてください。
 https://dotnet.microsoft.com/ja-jp/download/dotnet/10.0
 
 ## 使い方
